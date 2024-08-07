@@ -21,7 +21,7 @@ This project implements a classic **Snake game** using Python's Turtle graphics 
 
 1. **Snake Movement**: Use arrow keys to control the Snake's direction.
 2. **Food Consumption**: The Snake grows longer each time it eats food, and the score increases.
-3. **Collision Detection**: The game ends if the Snake collides with itself or the game boundaries.
+3. **Collision Detection**: The game ends if the Snake collides with itself.
 4. **Dynamic Scoring**: The score is updated in real-time, and the highest score is tracked throughout the gameplay.
 5. **Increasing Difficulty**: The game speed increases as the player's score gets higher, making it more challenging.
 
@@ -48,10 +48,6 @@ Here is a snapshot of the game in action:
 ## Contributing
 
 Feel free to fork this project, make enhancements, and submit pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
