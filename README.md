@@ -43,7 +43,7 @@ This project implements a classic **Snake game** using Python's Turtle graphics 
 
 Here is a snapshot of the game in action:
 
-![Snake Game Screenshot](snake_game_screenshot.png)
+![Snake Game Screenshot]( https://github.com/Hardikverma700/Python-Path/blob/main/Screenshot%20(267).png )
 
 ## Contributing
 
